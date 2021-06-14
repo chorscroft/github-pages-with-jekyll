@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my example website!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hello world, this is my github pages front page.
