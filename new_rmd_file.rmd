@@ -1,0 +1,12 @@
+---
+title: "Example R markdown file"
+author: "Clare Horscroft"
+date: "14/06/2021"
+output: html_document
+---
+
+# R markdown file
+
+```{r}
+2+2
+```
